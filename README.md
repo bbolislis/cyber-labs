@@ -1,3 +1,7 @@
-# Cyber Security Lab
-- Objective
-    - Deploy a secure working environment with different cyber security technologies. 
+This repository contains:
+Setting homelabs
+Walkthroughs
+Write-ups
+Cheatsheets
+Guides
+and other cybersecurity resources
